@@ -1,4 +1,4 @@
-update=vie 26 feb 2016 11:27:41 CST
+update=sáb 27 feb 2016 13:50:03 CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,7 +58,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=TacosBoard
-LibName31=/home/electronica/Documentos/LibreriasKicad/KicadLibrary_Inventors/theinventorhouse
-LibName32=/home/electronica/Documentos/LibreriasKicad/tm-kicad-lib
-LibName33=/home/electronica/Documentos/LibreriasKicad/taco
+LibName30=/home/electronica/Documentos/LibreriasKicad/kicadlibrary/open-project
+LibName31=taco
